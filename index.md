@@ -3,4 +3,4 @@
 <h3 align="center">На данный момент Аркадий упомянул отчисление</h3>
 <h2 align="center">0 раз</h2>
 
-<p align="center"><img src="./psj.jpeg" width="500px"></img></p>
+<p align="center"><img src="./psj.jpeg" width="500px"></p>
